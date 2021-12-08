@@ -37,3 +37,6 @@ models:
         +materialized: table
     NYPD_Dimensions:
         +materialized: table
+    Fact_Table:
+        +materialized: table
+
