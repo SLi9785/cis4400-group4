@@ -1,0 +1,7 @@
+version: 2
+ 
+sources:
+  - name: new_york_311
+    database: cis-4400-group-4-project
+    tables:
+      - name: 311_new_york_dataset

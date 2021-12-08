@@ -1,0 +1,7 @@
+version: 2
+ 
+sources:
+  - name: nypd_dataset
+    database: cis-4400-group-4-project
+    tables:
+      - name: nypd_dataset

@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: Dim_Agency
+    columns: 
+      - name: Agency_Dim_ID
+        tests:
+        - not_null
